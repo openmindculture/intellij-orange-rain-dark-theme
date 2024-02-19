@@ -1,14 +1,14 @@
 # Orange Rain Dark Theme
 
 <!-- Plugin description -->
-[Orange Rain Dark Theme](https://plugins.jetbrains.com/plugin/23795-orange-rain-dark-theme/edit) is a dark IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Orange Rain Light Theme and JetBrains default dark editor scheme. There is also an Orange Rain Light Theme.
+[Orange Rain Dark Theme](https://plugins.jetbrains.com/plugin/23795-orange-rain-dark-theme/) is a dark IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Orange Rain Light Theme and JetBrains default dark editor scheme. There is also an Orange Rain Light Theme.
 
 If you like to support development, you can open a pull request on GitHub.
 
 For JetBrains IDEs,
 To install:
 - Go to Settings (Preferences) | Plugins, find the theme plugin and install it
-- (_or_ download [Orange Rain Dark Theme from JetBrains Plugins page](https://plugins.jetbrains.com/plugin/23795-orange-rain-dark-theme/edit))
+- (_or_ download [Orange Rain Dark Theme from JetBrains Plugins page](https://plugins.jetbrains.com/plugin/23795-orange-rain-dark-theme/))
 - Restart IDE
 - Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown
 
