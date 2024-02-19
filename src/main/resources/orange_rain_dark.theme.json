@@ -1,0 +1,57 @@
+{
+  "name": "Orange Rain Dark",
+  "dark": true,
+  "author": "Ingo Steinke (openmindculture)",
+  "editorScheme": "/orange_rain_dark.xml",
+  "colors": {
+    "white": "#ffffff",
+    "sepiaLight": "#F9F5D5",
+    "foxYellowOrange": "#E49000",
+    "deepYellowOrange": "#E49d41",
+    "lightWood": "#E3CA98",
+    "lighterWood": "#f7deb6",
+    "sepiaOrangeLight": "#ffe8b7",
+    "sepiaOrangeDeep": "#ffb37a",
+    "orangeSalmon": "#F29463",
+    "orangeLight": "#FD9649",
+    "deepOrange": "#F38300",
+    "deepWood": "#783d00",
+    "reddishWood": "#A95424",
+    "midnightBlackVinyl": "#040A19",
+    "vinylBlueGray": "#3A5477",
+    "midnightBlue": "#223255",
+    "neonBlueDark": "#6061FF",
+    "neonBlueLight": "#3581FF",
+    "neonBlueBeff": "#49BEFF",
+    "pinkPurleShirt": "#E0D1E3"
+  },
+  "ui": {
+    "*": {
+      "background": "vinylBlueGray",
+      "selectedBackground": "neonBlueLight",
+      "hoverBackground": "pinkDarkBg",
+      "foreground": "sepiaLight",
+      "disabledText": "pinkPurleShirt",
+      "selectionBackground": "midnightBlue",
+      "selectionForeground": "pinkPurleShirt",
+      "underlineColor": "deepOrange",
+      "errorFocusColor": "sepiaOrangeDeep"
+    },
+    "Editor.background": "reddishWood",
+    "Button.default.foreground": "neonBlueBeff",
+    "Borders": {
+      "color": "neonBlueBeff",
+      "ContrastBorderColor": "neonBlueBeff"
+    },
+    "Panel.foreground": "neonBlueLight",
+    "Panel.foreground.hover": "neonBlueLight",
+    "Panel.hoverForeground": "neonBlueLight",
+    "ScrollPane.background": "midnightBlue",
+    "ScrollPane.foreground": "neonBlueLight",
+    "TextArea.foreground": "midnightBlackVinyl",
+    "TextField.background": "midnightBlue",
+    "TextField.foreground": "midnightBlue",
+    "TextField.inactiveForeground": "midnightBlue",
+    "Viewport.foreground": "neonBlueLight"
+  }
+}
