@@ -13,6 +13,7 @@
     "sepiaOrangeLight": "#ffe8b7",
     "sepiaOrangeDeep": "#ffb37a",
     "orangeSalmon": "#F29463",
+    "orangeHighlight": "#ff8c37",
     "orangeLight": "#FD9649",
     "deepOrange": "#F38300",
     "deepWood": "#783d00",
@@ -32,7 +33,7 @@
       "hoverBackground": "pinkDarkBg",
       "foreground": "sepiaLight",
       "disabledText": "pinkPurleShirt",
-      "selectionBackground": "midnightBlue",
+      "selectionBackground": "orangeHighlight",
       "selectionForeground": "pinkPurleShirt",
       "underlineColor": "deepOrange",
       "errorFocusColor": "sepiaOrangeDeep"
@@ -48,9 +49,9 @@
     "Panel.hoverForeground": "neonBlueLight",
     "ScrollPane.background": "midnightBlue",
     "ScrollPane.foreground": "neonBlueLight",
-    "TextArea.foreground": "midnightBlackVinyl",
+    "TextArea.foreground": "orangeHighlight",
     "TextField.background": "midnightBlue",
-    "TextField.foreground": "midnightBlue",
+    "TextField.foreground": "orangeHighlight",
     "TextField.inactiveForeground": "midnightBlue",
     "Viewport.foreground": "neonBlueLight"
   }

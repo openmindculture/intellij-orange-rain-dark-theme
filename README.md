@@ -57,8 +57,6 @@ To find out the internal names of UI elements, we can now use the [UI inspector]
 
 The `.palette-info.css` in the root directory can be used for a better editor preview, if the IDE does not show color previews in `.xml` and `.json` configuration files.
 
-![screenshot](TODO)
-
 Moodboard for this theme:
 
 ![screenshot-moodboard.png](screenshot-moodboard.png)
@@ -105,7 +103,7 @@ Create an archive `orange-rain-dark-theme-x.y.z.zip` containing:
 A valid `MANIFEST.MF` example is included to simplify theme export and update.
 
 You can use the build script `./build.sh $version` to build, e.g.
-`./build.sh 2.9.0`
+`./build.sh 2.9.0` or `npm run build` which will use the version defined in `package.json`.
 
 #### Upgrade Plugin for new IDEA versions
 
